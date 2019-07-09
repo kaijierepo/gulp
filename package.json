@@ -1,0 +1,31 @@
+{
+  "name": "gulp01",
+  "version": "1.0.0",
+  "description": "第一个gulp练手项目",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaijierepo/gulp.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "jacklove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaijierepo/gulp/issues"
+  },
+  "homepage": "https://github.com/kaijierepo/gulp#readme",
+  "devDependencies": {
+    "browserify": "^16.3.0",
+    "gulp": "4.0.2",
+    "gulp-typescript": "5.0.1",
+    "ts-node": "8.3.0",
+    "tsify": "^4.0.1",
+    "typescript": "3.5.2",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
